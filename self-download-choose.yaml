@@ -1,0 +1,4 @@
+# 这个规则的作用是将下载网站分流，因为校园网ipv6不限速，可以用ipv6节点
+
+payload:
+  - "store8.gofile.io"
