@@ -1,4 +1,7 @@
 payload:
-  - "linux.do"
-  - "bangumi.tv"
-  - "bgm.tv"
+  - "+.linux.do"
+  - "+.bangumi.tv"
+  - "+.bgm.tv"
+  - "steamcdn-a.akamaihd.net"
+  - "cm.steampowered.com"
+  - "steamserver.net"
