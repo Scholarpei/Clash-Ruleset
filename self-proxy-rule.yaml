@@ -16,4 +16,4 @@ payload:
   - "njav.tv"
   - "+.vikacg.com"
 
-  - "bangumi.tv" #理论上来讲是直连的，不知为何连不上
+  - "+.bangumi.tv" #理论上来讲是直连的，不知为何连不上
