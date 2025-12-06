@@ -1,8 +1,10 @@
 payload:
-  - "bgm.tv"
-  - "+.88code.org"
-  - "jp-m.88code.org"
-  - "hk-m.88code.org"
-  - "m.88code.org"
-  - DOMAIN-KEYWORD,dl-a10b-
-  - DOMAIN-KEYWORD,dl-z01a-
+  - "DOMAIN,bgm.tv"
+  - "DOMAIN-SUFFIX,88code.org"
+  - "DOMAIN,jp-m.88code.org"
+  - "DOMAIN,hk-m.88code.org"
+  - "DOMAIN,m.88code.org"
+
+  # pikpak 下载服务器匹配
+  - "DOMAIN-KEYWORD,dl-a10b"
+  - "DOMAIN-KEYWORD,dl-z01a"
