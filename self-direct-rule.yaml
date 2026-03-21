@@ -8,3 +8,5 @@ payload:
   # pikpak 下载服务器匹配
   - "DOMAIN-KEYWORD,dl-a10b"
   - "DOMAIN-KEYWORD,dl-z01a"
+  - "manhuagui.com"
+
