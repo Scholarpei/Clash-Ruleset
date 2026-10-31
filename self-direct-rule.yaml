@@ -14,3 +14,7 @@ payload:
 
   # steam
   - "steamserver.net"
+
+  # AAAI OJS - TLS 经代理链路损坏(bad record mac)，走直连
+  - "DOMAIN-SUFFIX,aaai.org"
+  - "DOMAIN-SUFFIX,publicknowledgeproject.org"
